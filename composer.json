@@ -1,5 +1,5 @@
 {
-    "name": "sdal",
+    "name": "composer/sdal",
     "type": "library",
     "description": "Simple Data Access Layer",
     "keywords": ["mysql","mongo"],
