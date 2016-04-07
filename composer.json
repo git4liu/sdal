@@ -1,7 +1,7 @@
 {
-    "name": "lib/sdal",
+    "name": "node_modules/sdal",
     "type": "library",
-    "description": "Simple Data Access Layer",
+    "description": "",
     "keywords": ["mysql","mongo"],
     "homepage": "https://github.com/git4liu/sdal",
     "license": "MIT",
